@@ -60,3 +60,19 @@ npm i react-router-dom axios bulma
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `npm test`
+
+Run snapshot test
+
+## Login as admin
+
+When user login to system with credentials username === "admin@gmail.com" password = "admin"
+he will be redirected to admin system with possibility add, edit or delete appointments
+
+## Register and login as user
+ 
+When user register and after that login to system with credentials with username as valid e-mail
+he will be redirected to user system where he can saw all appointments and select appointments by date
+
+
